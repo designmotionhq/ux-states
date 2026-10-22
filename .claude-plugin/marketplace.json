@@ -1,13 +1,21 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "ux-states",
-  "owner": { "name": "designmotionhq", "email": "support@designmotionhq.com", "url": "https://designmotionhq.com" },
+  "description": "ux-states, a free Claude Code skill for the loading, empty, error and partial states AI-written UI forgets.",
+  "owner": {
+    "name": "designmotionhq",
+    "email": "support@designmotionhq.com",
+    "url": "https://designmotionhq.com"
+  },
   "plugins": [
     {
       "name": "ux-states",
       "description": "Loading, empty, error and partial states that AI-written UI usually forgets.",
       "version": "1.0.0",
-      "author": { "name": "designmotionhq", "url": "https://designmotionhq.com" },
+      "author": {
+        "name": "designmotionhq",
+        "url": "https://designmotionhq.com"
+      },
       "source": "./",
       "category": "development",
       "license": "MIT"

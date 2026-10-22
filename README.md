@@ -8,7 +8,7 @@ Ask an agent for a list, a table or a form and you usually get the happy path. T
 
 - **Loading**: skeletons shaped like the real content, a spinner only for single actions, context and a cancel action when it takes long.
 - **Empty**: tells the user why it's empty and what to do next, instead of "No data".
-- **Error**: says what failed, keeps what the user typed, and offers a way out.
+- **Error**: names what failed and the next step (retry, or another way out), instead of a generic "Something went wrong".
 - **Partial**: when data comes from several sources or pages, shows what loaded and what didn't.
 
 ## Install
