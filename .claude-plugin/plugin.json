@@ -1,0 +1,9 @@
+{
+  "name": "ux-states",
+  "version": "1.0.0",
+  "description": "Make Claude Code handle every state a UI can be in: loading, empty, error and partial. Free skill from UX Engine by designmotionhq.",
+  "author": { "name": "designmotionhq", "url": "https://designmotionhq.com" },
+  "license": "MIT",
+  "homepage": "https://designmotionhq.com/ux-engine?utm_source=github&utm_medium=repo&utm_campaign=ux-states",
+  "keywords": ["ux", "ui", "states", "empty-state", "error-state", "loading", "frontend", "claude-code", "skill"]
+}
